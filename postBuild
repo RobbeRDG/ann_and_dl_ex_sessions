@@ -1,0 +1,3 @@
+git clone https://github.com/rfeinman/pytorch-minimize /tmp/pytorch-minimize
+pip3 install /tmp/pytorch-minimize --no-cache-dir
+rm -rf /tmp/pytorch-minimize
