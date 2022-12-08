@@ -56,6 +56,7 @@ class MLPResponseView(MLPView):
         self.proj_3d = proj_3d
 
         self.render()
+        plt.show() # Added myself
         plt.close()
 
     @property
