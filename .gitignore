@@ -5,6 +5,7 @@
 /es1/runs_bayes
 /es2/run_nn_time_series
 /es2/run_lstm_time_series
+/es3/data
 
 #####################################################################
 ####  GENERATED
