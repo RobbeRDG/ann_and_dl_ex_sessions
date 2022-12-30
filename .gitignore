@@ -6,6 +6,18 @@
 /es2/run_nn_time_series
 /es2/run_lstm_time_series
 /es3/data
+/es3/runs_1_encoder_classifier
+/es3/runs_1_encoder_classifier_ft
+/es3/runs_2_encoder_classifier
+/es3/runs_2_encoder_classifier_ft
+/es3/runs_3_encoder_classifier
+/es3/runs_3_encoder_classifier_ft
+/es3/runs_3_encoder_classifier_untrained
+/es3/runs_cnn
+/es3/runs_cnn_32
+/es3/runs_cnn_512
+/es3/runs_sae
+
 
 #####################################################################
 ####  GENERATED
